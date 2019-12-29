@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="/hdpexamples/lib/activation-1.1.jar"/>
 	<classpathentry kind="lib" path="/hdpexamples/lib/activation.jar"/>
 	<classpathentry kind="lib" path="/hdpexamples/lib/avro.jar"/>
@@ -104,5 +103,6 @@
 	<classpathentry kind="lib" path="/hdpexamples/lib/zookeeper-3.4.5-cdh5.0.0.jar"/>
 	<classpathentry kind="lib" path="/hdpexamples/lib/zookeeper.jar"/>
 	<classpathentry kind="lib" path="/hdpexamples/build.xml"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_144"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
